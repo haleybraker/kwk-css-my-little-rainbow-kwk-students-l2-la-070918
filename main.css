@@ -15,3 +15,7 @@ div {
 #violet {
   background-color: blue;
 }
+
+#red {
+  border-top-color: #f00;
+}
